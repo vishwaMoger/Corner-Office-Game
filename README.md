@@ -13,10 +13,16 @@
   <a href="https://playgama.ai/play/3ijupm2m3kc7dl">
     <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-Free%20in%20your%20browser-ffb805?style=for-the-badge" alt="Play Corner Office now" height="48">
   </a>
+  &nbsp;
+  <a href="https://bluelolipop1.itch.io/corner-office">
+    <img src="https://img.shields.io/badge/itch.io-Play%20on%20itch-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Corner Office on itch.io" height="48">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://playgama.ai/play/3ijupm2m3kc7dl"><b>playgama.ai/play/3ijupm2m3kc7dl</b></a><br>
+  <a href="https://playgama.ai/play/3ijupm2m3kc7dl"><b>playgama.ai/play/3ijupm2m3kc7dl</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://bluelolipop1.itch.io/corner-office"><b>bluelolipop1.itch.io/corner-office</b></a><br>
   <sub>Free, no download, no sign-up. Best on a PC with a mouse and keyboard.</sub>
 </p>
 
